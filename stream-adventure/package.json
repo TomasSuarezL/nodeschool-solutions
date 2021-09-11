@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "duplexer2": "^0.0.2",
+    "stream-combiner": "^0.2.2",
+    "tar": "^6.1.11",
+    "trumpet": "^1.7.2",
+    "ws": "^8.2.2"
+  }
+}
